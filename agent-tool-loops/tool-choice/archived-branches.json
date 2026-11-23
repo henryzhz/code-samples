@@ -1,0 +1,40 @@
+{
+  "present-auto": {
+    "model_calls_after_fork": 1,
+    "tools_after_complete_search": [],
+    "answer": "`normalize_label('  Hello World  ')` returns `'hello-world'`.\n\nTrace: `strip()` → `'Hello World'`, `.lower()` → `'hello world'`, `.replace(' ', '-')` → `'hello-world'`.",
+    "status": "completed",
+    "task_success": true
+  },
+  "present-required": {
+    "model_calls_after_fork": 4,
+    "tools_after_complete_search": [
+      "read_file",
+      "ls",
+      "grep",
+      "read_file"
+    ],
+    "answer": "",
+    "status": "budget_exhausted",
+    "task_success": false
+  },
+  "absent-auto": {
+    "model_calls_after_fork": 1,
+    "tools_after_complete_search": [],
+    "answer": "`normalize_label('  Hello World  ')` returns `'hello-world'`.\n\nSteps: `strip()` removes the surrounding spaces → `'Hello World'`; `lower()` → `'hello world'`; `replace(' ', '-')` → `'hello-world'`.",
+    "status": "completed",
+    "task_success": true
+  },
+  "absent-required": {
+    "model_calls_after_fork": 4,
+    "tools_after_complete_search": [
+      "read_file",
+      "glob",
+      "ls",
+      "ls"
+    ],
+    "answer": "",
+    "status": "budget_exhausted",
+    "task_success": false
+  }
+}

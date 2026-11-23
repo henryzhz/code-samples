@@ -1,0 +1,60 @@
+{
+  "files": [
+    {
+      "path": "eviction-before-fs.ts",
+      "url": "https://raw.githubusercontent.com/langchain-ai/deepagentsjs/73b4ada33066d84bfac95162cf4153b54c66cf7b/libs/deepagents/src/middleware/fs.ts",
+      "sha256": "9b564cfda474b1113b50d9ec21c10ed7f707a000f8641ccd98f9c5a173a88c6a",
+      "bytes": 21598,
+      "revision": "73b4ada33066d84bfac95162cf4153b54c66cf7b"
+    },
+    {
+      "path": "eviction-before-state.ts",
+      "url": "https://raw.githubusercontent.com/langchain-ai/deepagentsjs/73b4ada33066d84bfac95162cf4153b54c66cf7b/libs/deepagents/src/backends/state.ts",
+      "sha256": "4ea65779323f5ab712d14d2469894062a9bb21b88abf4ba08f548c6c0d7a2906",
+      "bytes": 8146,
+      "revision": "73b4ada33066d84bfac95162cf4153b54c66cf7b"
+    },
+    {
+      "path": "eviction-before-utils.ts",
+      "url": "https://raw.githubusercontent.com/langchain-ai/deepagentsjs/73b4ada33066d84bfac95162cf4153b54c66cf7b/libs/deepagents/src/backends/utils.ts",
+      "sha256": "429505708eb066f11d71833ac037422b79cb2b763ad385b0d002b0efe9284187",
+      "bytes": 15135,
+      "revision": "73b4ada33066d84bfac95162cf4153b54c66cf7b"
+    },
+    {
+      "path": "eviction-before-LICENSE",
+      "url": "https://raw.githubusercontent.com/langchain-ai/deepagentsjs/73b4ada33066d84bfac95162cf4153b54c66cf7b/LICENSE",
+      "sha256": "61e5e8faf0b76db76793ecd8aa0edca36a82bd8dba279d2a31972f026c132423",
+      "bytes": 1070,
+      "revision": "73b4ada33066d84bfac95162cf4153b54c66cf7b"
+    },
+    {
+      "path": "eviction-after-fs.ts",
+      "url": "https://raw.githubusercontent.com/langchain-ai/deepagentsjs/ef821a7d7bde3cd862ea5d7a95a3d86870b10409/libs/deepagents/src/middleware/fs.ts",
+      "sha256": "7cfde2493c4eb0464092511e9c37f15ace5a27671cd5688c3c1f1f22ef7b3fec",
+      "bytes": 30229,
+      "revision": "ef821a7d7bde3cd862ea5d7a95a3d86870b10409"
+    },
+    {
+      "path": "eviction-after-state.ts",
+      "url": "https://raw.githubusercontent.com/langchain-ai/deepagentsjs/ef821a7d7bde3cd862ea5d7a95a3d86870b10409/libs/deepagents/src/backends/state.ts",
+      "sha256": "4ea65779323f5ab712d14d2469894062a9bb21b88abf4ba08f548c6c0d7a2906",
+      "bytes": 8146,
+      "revision": "ef821a7d7bde3cd862ea5d7a95a3d86870b10409"
+    },
+    {
+      "path": "eviction-after-utils.ts",
+      "url": "https://raw.githubusercontent.com/langchain-ai/deepagentsjs/ef821a7d7bde3cd862ea5d7a95a3d86870b10409/libs/deepagents/src/backends/utils.ts",
+      "sha256": "dfceae3b5786772aa3df88ae701ed131647a16fc0195e386aa8d93349c768f13",
+      "bytes": 18511,
+      "revision": "ef821a7d7bde3cd862ea5d7a95a3d86870b10409"
+    },
+    {
+      "path": "eviction-after-LICENSE",
+      "url": "https://raw.githubusercontent.com/langchain-ai/deepagentsjs/ef821a7d7bde3cd862ea5d7a95a3d86870b10409/LICENSE",
+      "sha256": "61e5e8faf0b76db76793ecd8aa0edca36a82bd8dba279d2a31972f026c132423",
+      "bytes": 1070,
+      "revision": "ef821a7d7bde3cd862ea5d7a95a3d86870b10409"
+    }
+  ]
+}
